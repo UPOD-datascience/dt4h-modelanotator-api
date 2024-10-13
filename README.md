@@ -2,6 +2,8 @@
 
 This is a Flask API that performs Named Entity Recognition (NER) using a dictionary-based approach. The model relies on a CSV file containing entities and their corresponding labels...
 
+test
+
 ## Prerequisites
 
 Before starting, make sure you have Docker and Docker Compose installed on your system.
